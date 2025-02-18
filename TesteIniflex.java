@@ -52,7 +52,7 @@ class Funcionario extends Pessoa {
     }
 }
 
-public class Principal {
+public class TesteIniflex {
     private static List<Funcionario> funcionarios = new ArrayList<>();
 
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 # Projeto Java - Teste
 
-Este projeto foi desenvolvido como parte de um teste. Ele inclui as seguintes funcionalidades:
+Este projeto foi desenvolvido como parte de um teste. Ele inclui as funcionalidades solicitadas no teste:
 
 1. Inserção de funcionários.
 2. Remoção do funcionário "João".
@@ -12,4 +12,3 @@ Este projeto foi desenvolvido como parte de um teste. Ele inclui as seguintes fu
 8. Ordenação de funcionários por nome.
 9. Cálculo do total dos salários.
 10. Cálculo de quantos salários mínimos cada funcionário ganha.
-
